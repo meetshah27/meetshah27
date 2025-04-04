@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Meet Shah</h1>
-<h3 align="center">CS Grad @ Seattle University. Software Engineer and Full Stack Developer</h3>
+<h3 align="center">CS Grad @ Seattle University|Software Engineer|Full Stack Developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meetshah27" alt="meetshah27" /></a> </p>
 
