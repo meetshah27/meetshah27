@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **meet.shah.5458498@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1X9-53g4L4tZ2H-0hEuWuGzycO-goefqN/view?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/1X9-53g4L4tZ2H-0hEuWuGzycO-goefqN/view?usp=sharing
 
 - ⚡ Fun fact **I did my first startup at 19 and made to top 3 non-funded startups of India.**
 
